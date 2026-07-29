@@ -135,7 +135,7 @@ proxies:
   password: BxceQaOe
   port: 38961
   server: 18.166.236.71
-  skip-cert-verify: false
+  skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   tls: false
   type: trojan
